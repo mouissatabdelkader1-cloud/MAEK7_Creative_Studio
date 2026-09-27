@@ -1,0 +1,3 @@
+{
+  "name":"maek7-creative-studio","version":"1.0.0","private":true,"type":"module","scripts":{"start":"node server/index.js","dev":"node --watch server/index.js","test":"node tests/smoke.test.js"},"dependencies":{}
+}
